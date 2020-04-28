@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Demo My Second App</string>
+
+    <string name="android"> Welcome to Android!</string>
+    <string name = "Button1" > Button 1</string>
+    <string name = "Button2" > Button 2</string>
+    <string name = "text" > Large Text</string>
 </resources>
